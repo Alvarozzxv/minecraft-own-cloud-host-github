@@ -5,7 +5,7 @@ You can create your own cloud hosting for minecraft
 ### Setup
 chmod u+x start_server.sh
 
-### To run the server 
+### To run the server
 ./start_server.sh
 
 # ngrok
